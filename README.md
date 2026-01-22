@@ -1,1 +1,1 @@
-# Model-Predictive-Control-MPC-for-Process-Systems-MatLab
+'''PURE OCTAVE IMPLEMENTATION OF MPC (NO CONTROL PACKAGE)'''
