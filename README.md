@@ -4,7 +4,7 @@ Model-Predictive-Control-MPC-for-Process-Systems-MatLab
 PURE OCTAVE IMPLEMENTATION OF MPC (NO CONTROL PACKAGE); https://www.mycompiler.io/new/octave Simulated Predicted Outputs for Model Predictive Control (MPC) for Process Systems usig Matlab Code;
 
 
-<img width="399" height="310" alt="Results-Model Predictive Control (MPC) for Process Systems" src="https://github.com/user-attachments/assets/380f1bac-6af6-46dd-a327-b56d6813d230" />
+
 
 
 
